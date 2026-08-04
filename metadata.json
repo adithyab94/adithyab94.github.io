@@ -1,0 +1,6 @@
+{
+  "name": "Neural Controller Portfolio",
+  "description": "Portfolio website for Adithya Balaji, an Edge AI Robotics Engineer specializing in Vision-Language-Action models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

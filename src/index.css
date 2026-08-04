@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "ArtCompany", sans-serif;
+  --font-serif: "ArtCompany", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
